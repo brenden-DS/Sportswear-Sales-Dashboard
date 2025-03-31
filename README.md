@@ -1,6 +1,7 @@
 # Sportswear Sales Dashboard
 
 This Power BI Dashboard provides a comprehensive analysis of sportswear product sales across various regions, sales channels, and retailers. It highlights areas for improvement and identifies opportunities to boost sales performance.
+Heres a link to the interactive dashboard [Link](https://app.powerbi.com/view?r=eyJrIjoiOTU2MWE4YzAtNjU3Mi00NzIxLWJhODMtODZmYzlmYzgwOGUzIiwidCI6IjAzNWEyYzY4LTc2YjQtNGViYS1hMTVhLWNiYmNhOTY4NjhjZCJ9)
 
 ### Dataset Overview
 The dataset includes the following key features:
