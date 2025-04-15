@@ -27,10 +27,12 @@
 ### Visuals
 
 Overview
+
 ![overview](https://github.com/brenden-DS/Sportswear-Sales-Dashboard/blob/main/sportswear%20dashboard%20ovw.PNG)
 
 
 Insights
+
 ![Insights](https://github.com/brenden-DS/Sportswear-Sales-Dashboard/blob/main/sportswear%20insights.PNG)
 
 
